@@ -1,4 +1,5 @@
-from trie import Trie
+# coding=utf8
+from trie.trie import Trie
 from unittest import TestCase
 
 
